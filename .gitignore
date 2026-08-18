@@ -1,1 +1,5 @@
+# Seed files stay local only (any version folder)
 edutrack.sql
+edutrack_v2.sql
+**/edutrack.sql
+**/edutrack_v2.sql
